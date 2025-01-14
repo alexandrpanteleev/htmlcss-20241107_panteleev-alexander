@@ -40,6 +40,8 @@
 
     --primary: var(--blue);
     --secondary: var(--purple);
+
+    --base-height: 50px;
 }
 
 /* {
