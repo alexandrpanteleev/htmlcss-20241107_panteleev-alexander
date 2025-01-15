@@ -12,9 +12,9 @@
 
 @import url("../../components/page-matter/page-matter-flex.css");
 
-@import url("../../components/mmblock/mmblock.css");
+@import url("../../components/mainMenuBlock/mainMenuBlock.css");
 
-@import url("../../components/histogram/histogram.css");
+@import url("../../components/histogram/histogramMain.css");
 
 @import url("../../components/footer/footer.css");
 
@@ -39,6 +39,8 @@
 
     --primary: var(--blue);
     --secondary: var(--purple);
+
+    --base-height: 45px;
 }
 
 /* {
